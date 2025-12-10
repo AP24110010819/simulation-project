@@ -1,2 +1,0 @@
-# simulation-project
-simulation project
